@@ -10,4 +10,8 @@
     <string name="Q8">Question 8</string>
     <string name="Q9">Question 9</string>
     <string name="Q10">Question 10</string>
+    <string name="Q1O1">Option 1</string>
+    <string name="Q1O2">Option 2</string>
+    <string name="Q1O3">Option 3</string>
+    <string name="Q1O4">Option 4</string>
 </resources>
