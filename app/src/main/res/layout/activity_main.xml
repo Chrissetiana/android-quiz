@@ -38,24 +38,28 @@
                 android:saveEnabled="true">
 
                 <RadioButton
+                    android:id="@+id/Q1O1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q1O1"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q1O2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q1O2"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q1O3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q1O3"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q1O4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q1O4"
@@ -79,6 +83,7 @@
                 android:textSize="18sp" />
 
             <CheckBox
+                android:id="@+id/Q2O1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
@@ -87,6 +92,7 @@
                 android:textSize="16sp" />
 
             <CheckBox
+                android:id="@+id/Q2O2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
@@ -95,6 +101,7 @@
                 android:textSize="16sp" />
 
             <CheckBox
+                android:id="@+id/Q2O3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
@@ -103,6 +110,7 @@
                 android:textSize="16sp" />
 
             <CheckBox
+                android:id="@+id/Q2O4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
@@ -133,24 +141,28 @@
                 android:saveEnabled="true">
 
                 <RadioButton
+                    android:id="@+id/Q3O1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q3O1"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q3O2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q3O2"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q3O3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q3O3"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q3O4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q3O4"
@@ -181,24 +193,28 @@
                 android:saveEnabled="true">
 
                 <RadioButton
+                    android:id="@+id/Q4O1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q4O1"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q4O2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q4O2"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q4O3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q4O3"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q4O4"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q4O4"
@@ -229,24 +245,28 @@
                 android:saveEnabled="true">
 
                 <RadioButton
+                    android:id="@+id/Q5O1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q5O1"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q5O2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q5O2"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q5O3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q5O3"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q5O4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q5O4"
@@ -277,24 +297,28 @@
                 android:saveEnabled="true">
 
                 <RadioButton
+                    android:id="@+id/Q6O1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q6O1"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q6O2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q6O2"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q6O3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q6O3"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q6O4"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q6O4"
@@ -325,24 +349,28 @@
                 android:saveEnabled="true">
 
                 <RadioButton
+                    android:id="@+id/Q7O1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q7O1"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q7O2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q7O2"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q7O3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q7O3"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q7O4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q7O4"
@@ -373,24 +401,28 @@
                 android:saveEnabled="true">
 
                 <RadioButton
+                    android:id="@+id/Q8O1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q8O1"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q8O2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q8O2"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q8O3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q8O3"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q8O4"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q8O4"
@@ -421,24 +453,28 @@
                 android:saveEnabled="true">
 
                 <RadioButton
+                    android:id="@+id/Q9O1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q9O1"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q9O2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q9O2"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q9O3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q9O3"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q9O4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q9O4"
@@ -469,24 +505,28 @@
                 android:saveEnabled="true">
 
                 <RadioButton
+                    android:id="@+id/Q10O1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q10O1"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q10O2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q10O2"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q10O3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Q10O3"
                     android:textSize="16sp" />
 
                 <RadioButton
+                    android:id="@+id/Q10O4"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/Q10O4"
@@ -523,6 +563,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginBottom="20dp"
             android:layout_marginTop="10dp"
+            android:onClick="submitAnswers"
             android:text="@string/submit" />
 
     </LinearLayout>
