@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">Quiz App</string>
     <string name="name">Enter name</string>
-    <string name="answer">Type your answer here</string>
+    <string name="feedback">Feedback</string>
+    <string name="message">Enter message here</string>
     <string name="submit">Submit</string>
     <string name="Q1">Question 1</string>
     <string name="Q2">Question 2</string>

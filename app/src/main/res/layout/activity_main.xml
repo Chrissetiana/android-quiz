@@ -114,13 +114,13 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="10dp"
-                android:text="@string/Q3"
+                android:text="@string/feedback"
                 android:textSize="18sp" />
 
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="@string/answer"
+                android:hint="@string/message"
                 android:inputType="textMultiLine" />
 
         </LinearLayout>
@@ -128,7 +128,9 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:padding="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="10dp"
             android:text="@string/submit" />
 
     </LinearLayout>
