@@ -13,8 +13,9 @@
             android:id="@+id/name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="10dp"
-            android:hint="@string/name"/>
+            android:hint="@string/name"
+            android:inputType="textCapWords"
+            android:padding="10dp" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -76,25 +77,28 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
                 android:layout_marginStart="16dp"
-                android:text="@string/Q2O1"/>
+                android:text="@string/Q2O1" />
+
             <CheckBox
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
                 android:layout_marginStart="16dp"
-                android:text="@string/Q2O2"/>
+                android:text="@string/Q2O2" />
+
             <CheckBox
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
                 android:layout_marginStart="16dp"
-                android:text="@string/Q2O3"/>
+                android:text="@string/Q2O3" />
+
             <CheckBox
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
                 android:layout_marginStart="16dp"
-                android:text="@string/Q2O4"/>
+                android:text="@string/Q2O4" />
 
         </LinearLayout>
 
@@ -113,7 +117,8 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:inputType="textMultiLine"/>
+                android:hint="@string/answer"
+                android:inputType="textMultiLine" />
 
         </LinearLayout>
 
