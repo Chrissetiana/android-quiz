@@ -4,23 +4,64 @@
     <string name="feedback">Feedback</string>
     <string name="message">Enter message here</string>
     <string name="submit">Submit</string>
+
     <string name="Q1">Question 1</string>
-    <string name="Q2">Question 2</string>
-    <string name="Q3">Question 3</string>
-    <string name="Q4">Question 4</string>
-    <string name="Q5">Question 5</string>
-    <string name="Q6">Question 6</string>
-    <string name="Q7">Question 7</string>
-    <string name="Q8">Question 8</string>
-    <string name="Q9">Question 9</string>
-    <string name="Q10">Question 10</string>
     <string name="Q1O1">Option 1</string>
     <string name="Q1O2">Option 2</string>
     <string name="Q1O3">Option 3</string>
     <string name="Q1O4">Option 4</string>
+
+    <string name="Q2">Question 2</string>
     <string name="Q2O1">Option 1</string>
     <string name="Q2O2">Option 2</string>
     <string name="Q2O3">Option 3</string>
     <string name="Q2O4">Option 4</string>
 
+    <string name="Q3">Question 3</string>
+    <string name="Q3O1">Option 1</string>
+    <string name="Q3O2">Option 2</string>
+    <string name="Q3O3">Option 3</string>
+    <string name="Q3O4">Option 4</string>
+
+    <string name="Q4">Question 4</string>
+    <string name="Q4O1">Option 1</string>
+    <string name="Q4O2">Option 2</string>
+    <string name="Q4O3">Option 3</string>
+    <string name="Q4O4">Option 4</string>
+
+    <string name="Q5">Question 5</string>
+    <string name="Q5O1">Option 1</string>
+    <string name="Q5O2">Option 2</string>
+    <string name="Q5O3">Option 3</string>
+    <string name="Q5O4">Option 4</string>
+
+    <string name="Q6">Question 6</string>
+    <string name="Q6O1">Option 1</string>
+    <string name="Q6O2">Option 2</string>
+    <string name="Q6O3">Option 3</string>
+    <string name="Q6O4">Option 4</string>
+
+    <string name="Q7">Question 7</string>
+    <string name="Q7O1">Option 1</string>
+    <string name="Q7O2">Option 2</string>
+    <string name="Q7O3">Option 3</string>
+    <string name="Q7O4">Option 4</string>
+
+    <string name="Q8">Question 8</string>
+    <string name="Q8O1">Option 1</string>
+    <string name="Q8O2">Option 2</string>
+    <string name="Q8O3">Option 3</string>
+    <string name="Q8O4">Option 4</string>
+
+    <string name="Q9">Question 9</string>
+    <string name="Q9O1">Option 1</string>
+    <string name="Q9O2">Option 2</string>
+    <string name="Q9O3">Option 3</string>
+    <string name="Q9O4">Option 4</string>
+
+    <string name="Q10">Question 10</string>
+    <string name="Q10O1">Option 1</string>
+    <string name="Q10O2">Option 2</string>
+    <string name="Q10O3">Option 3</string>
+    <string name="Q10O4">Option 4</string>
 </resources>
