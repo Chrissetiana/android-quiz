@@ -1,67 +1,67 @@
 <resources>
-    <string name="app_name">Quiz App</string>
+    <string name="app_name">ICT Fundamentals</string>
     <string name="name">Enter name</string>
-    <string name="feedback">Feedback</string>
+    <string name="feedback">Comments? Suggestions?</string>
     <string name="message">Enter message here</string>
     <string name="submit">Submit</string>
 
-    <string name="Q1">Question 1</string>
-    <string name="Q1O1">Option 1</string>
-    <string name="Q1O2">Option 2</string>
-    <string name="Q1O3">Option 3</string>
-    <string name="Q1O4">Option 4</string>
+    <string name="Q1">Q1. ICT stands for </string>
+    <string name="Q1O1">Informatic and Communications Technology</string>
+    <string name="Q1O2">Information and Communicative Technology</string>
+    <string name="Q1O3">Information and Communications Technology</string>
+    <string name="Q1O4">Information and Communications Technological</string>
 
-    <string name="Q2">Question 2</string>
-    <string name="Q2O1">Option 1</string>
-    <string name="Q2O2">Option 2</string>
-    <string name="Q2O3">Option 3</string>
-    <string name="Q2O4">Option 4</string>
+    <string name="Q2">Q2. Choose the types of computer:</string>
+    <string name="Q2O1">Supercomputer</string>
+    <string name="Q2O2">Parallel</string>
+    <string name="Q2O3">Sequential</string>
+    <string name="Q2O4">Multiuser</string>
 
-    <string name="Q3">Question 3</string>
-    <string name="Q3O1">Option 1</string>
-    <string name="Q3O2">Option 2</string>
-    <string name="Q3O3">Option 3</string>
-    <string name="Q3O4">Option 4</string>
+    <string name="Q3">Q3. A network is a set of interconnected computers</string>
+    <string name="Q3O1">True</string>
+    <string name="Q3O2">False</string>
+    <string name="Q3O3">Maybe</string>
+    <string name="Q3O4">Sometimes</string>
 
-    <string name="Q4">Question 4</string>
-    <string name="Q4O1">Option 1</string>
-    <string name="Q4O2">Option 2</string>
-    <string name="Q4O3">Option 3</string>
-    <string name="Q4O4">Option 4</string>
+    <string name="Q4">Q4. Touchpad, webcam and microphone are examples of _________ devices</string>
+    <string name="Q4O1">Input</string>
+    <string name="Q4O2">Process</string>
+    <string name="Q4O3">Output</string>
+    <string name="Q4O4">Storage</string>
 
-    <string name="Q5">Question 5</string>
-    <string name="Q5O1">Option 1</string>
-    <string name="Q5O2">Option 2</string>
-    <string name="Q5O3">Option 3</string>
-    <string name="Q5O4">Option 4</string>
+    <string name="Q5">Q5. Diskette, memory card and hard drive are examples of _________ devices</string>
+    <string name="Q5O1">Input</string>
+    <string name="Q5O2">Process</string>
+    <string name="Q5O3">Output</string>
+    <string name="Q5O4">Storage</string>
 
-    <string name="Q6">Question 6</string>
-    <string name="Q6O1">Option 1</string>
-    <string name="Q6O2">Option 2</string>
-    <string name="Q6O3">Option 3</string>
-    <string name="Q6O4">Option 4</string>
+    <string name="Q6">CPU stands for</string>
+    <string name="Q6O1">Center Processing Unit</string>
+    <string name="Q6O2">Central Processor Unit</string>
+    <string name="Q6O3">Central Processing Unite</string>
+    <string name="Q6O4">Central Processing Unit</string>
 
-    <string name="Q7">Question 7</string>
-    <string name="Q7O1">Option 1</string>
-    <string name="Q7O2">Option 2</string>
-    <string name="Q7O3">Option 3</string>
-    <string name="Q7O4">Option 4</string>
+    <string name="Q7">____________ is a global network of networks, interconnected using standardized protocols</string>
+    <string name="Q7O1">Internet</string>
+    <string name="Q7O2">Intranet</string>
+    <string name="Q7O3">World Wide Web</string>
+    <string name="Q7O4">Applet</string>
 
-    <string name="Q8">Question 8</string>
-    <string name="Q8O1">Option 1</string>
-    <string name="Q8O2">Option 2</string>
-    <string name="Q8O3">Option 3</string>
-    <string name="Q8O4">Option 4</string>
+    <string name="Q8">Automation, versatility and accessibility are all _________ in using computers</string>
+    <string name="Q8O1">Disadvantages</string>
+    <string name="Q8O2">Issues</string>
+    <string name="Q8O3">Advantages</string>
+    <string name="Q8O4">Rules</string>
 
-    <string name="Q9">Question 9</string>
-    <string name="Q9O1">Option 1</string>
-    <string name="Q9O2">Option 2</string>
-    <string name="Q9O3">Option 3</string>
-    <string name="Q9O4">Option 4</string>
+    <string name="Q9">_____________ is a collection of hypermedia documents globally and logically linked by the internet</string>
+    <string name="Q9O1">Internet</string>
+    <string name="Q9O2">Intranet</string>
+    <string name="Q9O3">World Wide Web</string>
+    <string name="Q9O4">Applet</string>
 
-    <string name="Q10">Question 10</string>
-    <string name="Q10O1">Option 1</string>
-    <string name="Q10O2">Option 2</string>
-    <string name="Q10O3">Option 3</string>
-    <string name="Q10O4">Option 4</string>
+    <string name="Q10">Unemployment, addiction and health concerns are all _______ in using computers</string>
+    <string name="Q10O1">Disadvantages</string>
+    <string name="Q10O2">Issues</string>
+    <string name="Q10O3">Advantages</string>
+    <string name="Q10O4">Rules</string>
 </resources>
