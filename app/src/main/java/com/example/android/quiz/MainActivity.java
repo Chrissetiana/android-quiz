@@ -51,22 +51,26 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void checkQ2(View v) {
-        boolean checked = ((CheckBox) v).isChecked();
+        CheckBox chk1 = findViewById(R.id.Q2O1);
+        CheckBox chk2 = findViewById(R.id.Q2O2);
+        CheckBox chk3 = findViewById(R.id.Q2O3);
+        CheckBox chk4 = findViewById(R.id.Q2O4);
+
+        if (chk1.isChecked() && chk2.isChecked() && chk3.isChecked() && !chk4.isChecked()) {
+            score += 1;
+        }
+
+       /* boolean checked = ((CheckBox) v).isChecked();
 
         switch (v.getId()) {
-            case R.id.Q2O1:
-            case R.id.Q2O3:
-            case R.id.Q2O4:
-                if (checked) {
-                    score += 1;
-                    break;
-                }
             case R.id.Q2O2:
                 if (checked) {
                     score += 0;
                     break;
+                } else {
+                    score += 1;
                 }
-        }
+        }*/
     }
 
     public void checkQ3(View v) {
@@ -285,7 +289,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void submitAnswers(int score) {
+    public void submitAnswers(View view) {
         EditText text = findViewById(R.id.name);
         String name = text.getText().toString();
 
