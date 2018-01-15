@@ -8,6 +8,8 @@ package com.example.android.quiz;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.CheckBox;
+import android.widget.RadioButton;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,8 +21,270 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void submitAnswers(View view) {
+    public void checkQ1(View v) {
+        boolean checked = ((RadioButton) v).isChecked();
 
+        switch (v.getId()) {
+            case R.id.Q1O1:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q1O2:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q1O3:
+                if (checked) {
+                    score += 1;
+                    break;
+                }
+            case R.id.Q1O4:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+        }
+    }
+
+    public void checkQ2(View v) {
+        boolean checked = ((CheckBox) v).isChecked();
+
+        switch (v.getId()) {
+            case R.id.Q2O1:
+            case R.id.Q2O3:
+            case R.id.Q2O4:
+                if (checked) {
+                    score += 1;
+                    break;
+                }
+            case R.id.Q2O2:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+        }
+    }
+
+    public void checkQ3(View v) {
+        boolean checked = ((RadioButton) v).isChecked();
+
+        switch (v.getId()) {
+            case R.id.Q3O1:
+                if (checked) {
+                    score += 1;
+                    break;
+                }
+            case R.id.Q3O2:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q3O3:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q3O4:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+        }
+    }
+
+    public void checkQ4(View v) {
+        boolean checked = ((RadioButton) v).isChecked();
+
+        switch (v.getId()) {
+            case R.id.Q4O1:
+                if (checked) {
+                    score += 1;
+                    break;
+                }
+            case R.id.Q4O2:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q4O3:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q4O4:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+        }
+    }
+
+    public void checkQ5(View v) {
+        boolean checked = ((RadioButton) v).isChecked();
+
+        switch (v.getId()) {
+            case R.id.Q5O1:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q5O2:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q5O3:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q5O4:
+                if (checked) {
+                    score += 1;
+                    break;
+                }
+        }
+    }
+
+    public void checkQ6(View v) {
+        boolean checked = ((RadioButton) v).isChecked();
+
+        switch (v.getId()) {
+            case R.id.Q6O1:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q6O2:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q6O3:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q6O4:
+                if (checked) {
+                    score += 1;
+                    break;
+                }
+        }
+    }
+
+    public void checkQ7(View v) {
+        boolean checked = ((RadioButton) v).isChecked();
+
+        switch (v.getId()) {
+            case R.id.Q7O1:
+                if (checked) {
+                    score += 1;
+                    break;
+                }
+            case R.id.Q7O2:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q7O3:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q7O4:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+        }
+    }
+
+    public void checkQ8(View v) {
+        boolean checked = ((RadioButton) v).isChecked();
+
+        switch (v.getId()) {
+            case R.id.Q8O1:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q8O2:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q8O3:
+                if (checked) {
+                    score += 1;
+                    break;
+                }
+            case R.id.Q8O4:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+        }
+    }
+
+    public void checkQ9(View v) {
+        boolean checked = ((RadioButton) v).isChecked();
+
+        switch (v.getId()) {
+            case R.id.Q9O1:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q9O2:
+                if (checked) {
+                    score += 1;
+                    break;
+                }
+            case R.id.Q9O3:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q9O4:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+        }
+    }
+
+    public void checkQ10(View v) {
+        boolean checked = ((RadioButton) v).isChecked();
+
+        switch (v.getId()) {
+            case R.id.Q10O1:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q10O2:
+                if (checked) {
+                    score += 1;
+                    break;
+                }
+            case R.id.Q10O3:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+            case R.id.Q10O4:
+                if (checked) {
+                    score += 0;
+                    break;
+                }
+        }
+    }
+
+    public void submitAnswers(View view) {
+        // Toast message
     }
 
 
@@ -62,4 +326,5 @@ public class MainActivity extends AppCompatActivity {
             // TODO: Veggie sandwich
         }
     }*/
+
 }

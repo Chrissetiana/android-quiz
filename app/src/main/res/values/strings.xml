@@ -55,13 +55,13 @@
 
     <string name="Q9">9. _____________ is a collection of hypermedia documents globally and logically linked by the internet</string>
     <string name="Q9O1">Internet</string>
-    <string name="Q9O2">Intranet</string>
-    <string name="Q9O3">World Wide Web</string>
+    <string name="Q9O2">World Wide Web</string>
+    <string name="Q9O3">Intranet</string>
     <string name="Q9O4">Applet</string>
 
     <string name="Q10">10. Unemployment, addiction and health concerns are all _______ in using computers</string>
-    <string name="Q10O1">Disadvantages</string>
-    <string name="Q10O2">Issues</string>
+    <string name="Q10O1">Issues</string>
+    <string name="Q10O2">Disadvantages</string>
     <string name="Q10O3">Advantages</string>
     <string name="Q10O4">Rules</string>
 </resources>
