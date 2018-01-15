@@ -9,7 +9,9 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.CheckBox;
+import android.widget.EditText;
 import android.widget.RadioButton;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -283,9 +285,14 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void submitAnswers(View view) {
-        // Toast message
+    public void submitAnswers(int score) {
+        EditText text = findViewById(R.id.name);
+        String name = text.getText().toString();
+
+        Toast.makeText(this, "Hello, " + name + ". You scored " + score + " out of 10.", Toast.LENGTH_SHORT).show();
     }
+
+}
 
 
    /* public void onRadioButtonClicked(View view) {
@@ -326,5 +333,3 @@ public class MainActivity extends AppCompatActivity {
             // TODO: Veggie sandwich
         }
     }*/
-
-}
