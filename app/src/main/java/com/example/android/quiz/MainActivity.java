@@ -8,6 +8,7 @@ package com.example.android.quiz;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.RadioButton;
@@ -153,5 +154,7 @@ public class MainActivity extends AppCompatActivity {
         String name = text.getText().toString();
 
         Toast.makeText(this, "Hello, " + name + ". You scored " + score + " out of 10.", Toast.LENGTH_SHORT).show();
+        Button btnSubmit = (Button) findViewById(R.id.submit);
+        btnSubmit.setEnabled(false);
     }
 }
