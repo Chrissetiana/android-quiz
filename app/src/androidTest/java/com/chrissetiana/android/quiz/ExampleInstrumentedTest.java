@@ -1,4 +1,4 @@
-package com.example.android.quiz;
+package com.chrissetiana.android.quiz;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
