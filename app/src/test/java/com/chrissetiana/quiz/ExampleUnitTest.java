@@ -1,4 +1,4 @@
-package com.chrissetiana.android.quiz;
+package com.chrissetiana.quiz;
 
 import org.junit.Test;
 

@@ -3,7 +3,7 @@
  * toast msg with score when grading button is clicked
  * grading logic: check if correct ans is checked AND incorrect ones are not checked
  */
-package com.chrissetiana.android.quiz;
+package com.chrissetiana.quiz;
 
 import android.app.Activity;
 import android.os.Bundle;
