@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="outer">16dp</dimen>
+    <dimen name="inner">8dp</dimen>
+
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="text_size">16sp</dimen>
+</resources>
